@@ -1,3 +1,4 @@
+<img width="2400" height="1792" alt="ThePortal_P_v1" src="https://github.com/user-attachments/assets/38860fc6-b854-4774-930b-a142355857fe" />
 # ThePortal
 
 **Put it here. Get it there.**
